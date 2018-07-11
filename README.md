@@ -23,7 +23,7 @@ This is a test to see if any html will be made. Meow.
 
 <h1>Hello World!</h1>
 
-<p>This page has a light blue background color!</p>
+<p>This page has a green background color!</p>
 
 
 <h1>This is a Heading</h1>

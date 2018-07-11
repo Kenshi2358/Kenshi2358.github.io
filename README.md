@@ -9,13 +9,19 @@ This is a test to see if any html will be made. Meow.
 <head>
   
   <style>
-  body { background-color: darkblue; }
+  body { background-color: lightlue; }
   </style>
   
   
 <title>Page Title</title>
 </head>
 <body>
+
+
+<h1>Hello World!</h1>
+
+<p>This page has a light blue background color!</p>
+
 
 <h1>This is a Heading</h1>
 <p>This is a paragraph.</p>

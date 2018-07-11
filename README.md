@@ -7,6 +7,12 @@ This is a test to see if any html will be made. Meow.
 <!DOCTYPE html>
 <html>
 <head>
+  
+  <style>
+  body { background-color: darkblue; }
+  </style>
+  
+  
 <title>Page Title</title>
 </head>
 <body>
